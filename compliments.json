@@ -1,7 +1,10 @@
 {
-    "updateInterval" : 10000,
+    "updateInterval" : 5000,
     "anytime" : [
-        "اَلسَّلَامُ عَلَيْكُم"
+        "اَلسَّلَامُ عَلَيْكُم",
+        "سُبْحَانَ اللهِ ، والْحَمْدُ للهِ ، وَاللهُ أَكْبَرُ",
+        "لاَ إِلَهَ إِلَّا أنْـت سُـبْحانَكَ إِنِّي كُنْـتُ مِنَ الظّـالِميـن",
+        "قُلْ هُوَ اللهُ أَحَدٌ اللهُ الصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ\n\nHe is Allah (the) One. The Self-Sufficient Master, Whom all creatures need, He begets not nor was He begotten, and there is none equal to Him"
     ],
     "morning" : [
         "Go get 'em, Tiger!"
@@ -10,7 +13,6 @@
         "اَلسَّلَامُ عَلَيْكُم"
     ],
     "evening" : [
-        "اَلسَّلَامُ عَلَيْكُم",
-        "رَبَّنَآ اٰتِنَا فِي الدُّنْيَا حَسَنَةً وَّفِي الْاٰخِرَةِ حَسَـنَةً وَّقِنَا عَذَابَ النَّا\nOur Lord! Give us in this world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire!"
+        "رَبَّنَآ اٰتِنَا فِي الدُّنْيَا حَسَنَةً وَّفِي الْاٰخِرَةِ حَسَـنَةً وَّقِنَا عَذَابَ النَّا\n\nOur Lord! Give us in this world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire!",
     ]
 }
