@@ -1,4 +1,5 @@
 {
+    "updateInterval" : 10000,
     "anytime" : [
         "اَلسَّلَامُ عَلَيْكُم"
     ],
@@ -9,6 +10,7 @@
         "اَلسَّلَامُ عَلَيْكُم"
     ],
     "evening" : [
-        "اَلسَّلَامُ عَلَيْكُم"
+        "اَلسَّلَامُ عَلَيْكُم",
+        "رَبَّنَآ اٰتِنَا فِي الدُّنْيَا حَسَنَةً وَّفِي الْاٰخِرَةِ حَسَـنَةً وَّقِنَا عَذَابَ النَّا\nOur Lord! Give us in this world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire!"
     ]
 }
